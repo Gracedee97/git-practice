@@ -1,0 +1,6 @@
+       5 commands from week 1
+1s -- the command line do list all the files and folders in the folder that you are in.
+cd -- the command switches one directory to another directory of anyone choice.it stands for "change directory".
+mkdir - it is used to create new directory in a working directory, it stands for "make directory".
+touch - the command is used to create files in a working directory.
+rm -- the command is used to delete files and directories.
